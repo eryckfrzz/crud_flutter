@@ -1,16 +1,29 @@
-# crud_flutter
+# CRUD flutter
 
-A new Flutter project.
+Meu primeiro CRUD em flutter, consumindo apenas dados locais. O usuário se cadastra adicionando seu nome, email e senha.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+criar, ler, atualizar e deletar usuários.
 
-A few resources to get you started if this is your first Flutter project:
+## Status do Projeto
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Em desenvolvimento / Bug conhecido: o aplicativo está com um bug na hora de visualizar o usuários após o cadastro, o erro impactou na performance do app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias
+
+* Flutter
+* Linguagem Dart
+
+## Como Executar
+
+1. Clone o repositório: `git clone https://github.com/seu-usuario/crud_flutter.git`
+2. Acesse a pasta do projeto: `cd crud_flutter`
+3. Instale as dependências: `flutter pub get`
+4. Execute o aplicativo: `flutter run`
+
+
+## Contribuição
+
+Sinta-se à vontade para contribuir com o projeto!
+
